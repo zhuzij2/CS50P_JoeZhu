@@ -67,4 +67,4 @@ To get started with this project, clone the repository and ensure Python is inst
 
 #### Author
 
-* **Zijian Zhu** - *Initial work*
+* **Zijian Zhu**
