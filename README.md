@@ -18,11 +18,11 @@ This project provides a unique solution for individuals with Irritable Bowel Syn
 
 #### Purpose of the files in the project:
 
-File1: dish_recipe.csv - Input CSV file used by the program to randomly generate recipes from.
-File2: fodmap_repo.json - Input JSON file used as a database for the program to look up a particular ingredient from a recipe in order to determine whether it's low or high FODMAP.
-File3: project.py - this is the file that contains the main function as well as additional functions for user to generate the number of dish recipes as needed.
-File4: test_project.py - this is the file that contains code for testing three of the functions in the program using pytest.
-File5: requirements.txt - this is the dependant external modules that the project.py imports, which needs to be preinstalled before running it.
+- File1: dish_recipe.csv - Input CSV file used by the program to randomly generate recipes from.
+- File2: fodmap_repo.json - Input JSON file used as a database for the program to look up a particular ingredient from a recipe in order to determine whether it's low or high FODMAP.
+- File3: project.py - this is the file that contains the main function as well as additional functions for user to generate the number of dish recipes as needed.
+- File4: test_project.py - this is the file that contains code for testing three of the functions in the program using pytest.
+- File5: requirements.txt - this is the dependant external modules that the project.py imports, which needs to be preinstalled before running it.
 
 #### Usage
 
