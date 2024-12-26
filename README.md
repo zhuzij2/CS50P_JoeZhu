@@ -1,7 +1,9 @@
 # Low FODMAP Chinese Dish Recipe Generator for IBS Management
+
 #### Video Demo:  <URL HERE>
+
 #### Description
-TODO
+
 The script uses advanced programming techniques, including libraries like `csv`, `json`, `spacy`, and `inflect`, to process dish information and generate user-friendly recipes. It's crafted to consider the complexities of dietary restrictions while maintaining the essence of Chinese culinary traditions.
 
 ## Introduction
