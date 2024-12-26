@@ -19,6 +19,14 @@ This project provides a unique solution for individuals with Irritable Bowel Syn
 
 ### Your README.md file should be minimally multiple paragraphs in length, and should explain what your project is, what each of the files you wrote for the project contains and does, and if you debated certain design choices, explaining why you made them. Ensure you allocate sufficient time and energy to writing a README.md that documents your project thoroughly. Be proud of it! A README.md in the neighborhood of 500 words is likely to be sufficient for describing your project and all aspects of its functionality. If unable to reach that threshold, that probably means your project is insufficiently complex.
 
+#### Purpose of the files in the project:
+
+File1: dish_recipe.csv - Input CSV file used by the program to randomly generate recipes from.
+File2: fodmap_repo.json - Input JSON file used as a database for the program to look up a particular ingredient from a recipe in order to determine whether it's low or high FODMAP.
+File3: project.py - this is the file that contains the main function as well as additional functions for user to generate the number of dish recipes as needed.
+File4: test_project.py - this is the file that contains code for testing three of the functions in the program using pytest.
+File5: requirements.txt - this is the dependant external modules that the project.py imports, which needs to be preinstalled before running it.
+
 ### Usage
 
 ```bash
