@@ -1,6 +1,6 @@
 # Low FODMAP Chinese Dish Recipe Generator for IBS Management
 
-#### Video Demo:  [<URL HERE>](https://youtu.be/oEI-crhu7kc)
+#### Video Demo:  [<https://youtu.be/oEI-crhu7kc>]
 
 #### Description
 
