@@ -42,16 +42,8 @@ Adhering to a low FODMAP diet, especially in the initial phase, is crucial for m
 
 ## Getting Started
 
-To get started with this project, clone the repository and ensure Python is installed on your system. Follow the installation instructions provided in the repository to set up the necessary environment.
+To get started with this project, clone the repository and ensure Python is installed on your system. Run "pip install -r requirements.txt", to set up the necessary environment.
 
 ## Author
 
 * **Zijian Zhu** - *Initial work*
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for more details.
-
-## Final Thoughts
-
-This project stands as a testament to how technology can be harnessed to make life easier and healthier for individuals with specific dietary needs. It's more than just a script; it's a tool for better health and well-being.
