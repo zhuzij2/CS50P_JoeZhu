@@ -55,12 +55,6 @@ Replace `<number_of_dishes>` with the desired number of items for the recipes. T
 
 Adhering to a low FODMAP diet, especially in the initial phase, is crucial for managing IBS symptoms. This script empowers users by simplifying the often overwhelming process of meal planning. It opens up a world where enjoying a diverse range of Chinese dishes is possible, without the fear of triggering IBS symptoms.
 
-#### Built With
-
-- Python: The core programming language used in the project.
-- Spacy, Inflect: Python libraries used for text processing and natural language tasks.
-- CSV, JSON: Utilized for data handling and storage.
-
 #### Getting Started
 
 To get started with this project, clone the repository and ensure Python is installed on your system. Run "pip install -r requirements.txt", to set up the necessary environment.
