@@ -1,9 +1,9 @@
 
-# Low FODMAP Chinese Dish Menu Generator for IBS Management
+# Low FODMAP Chinese Dish Recipe Generator for IBS Management
 
 ## Introduction
 
-This project provides a unique solution for individuals with Irritable Bowel Syndrome (IBS) who are fans of Chinese cuisine and are starting a low FODMAP diet. The Python script at the heart of this project is specifically designed to generate Chinese dish menus that align with low FODMAP dietary standards. This initiative is particularly crucial during the first month of dieting, where identifying potential food triggers is key for people with IBS. My script simplifies this process by offering a tailored menu, helping IBS sufferers enjoy their favorite dishes without compromising their health.
+This project provides a unique solution for individuals with Irritable Bowel Syndrome (IBS) who are fans of Chinese cuisine and are starting a low FODMAP diet. The Python script at the heart of this project is specifically designed to generate Chinese Dish Recipes that align with low FODMAP dietary standards. This initiative is particularly crucial during the first month of dieting, where identifying potential food triggers is key for people with IBS. My script simplifies this process by offering a tailored menu, helping IBS sufferers enjoy their favorite dishes without compromising their health.
 
 ## Project Description
 
