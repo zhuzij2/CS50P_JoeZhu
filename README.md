@@ -27,7 +27,7 @@ This project provides a unique solution for individuals with Irritable Bowel Syn
   
 #### Ingredient Processing: Design Choices
 
-To ensure accurate validation of ingredients for low FODMAP compliance, the script employs:
+To ensure accurate validation of ingredients for low FODMAP compliance, the code employs:
 
 - #### Singularization (Inflect)  
   Converts plurals like "tomatoes" to "tomato" for consistent dictionary matching.
