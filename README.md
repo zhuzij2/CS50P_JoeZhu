@@ -17,6 +17,8 @@ This project provides a unique solution for individuals with Irritable Bowel Syn
 - **Adaptive Meal Categorization**: Depending on the time of the request, the recipes are classified as either Lunch or Dinner, aligning with typical meal times (Lunch: 0:00 - 14:00, Dinner: 14:00 - 24:00).
 - **Customized Output**: The script generates a text file for the recipes, named according to the meal time and date, for easy reference and record-keeping.
 
+### Your README.md file should be minimally multiple paragraphs in length, and should explain what your project is, what each of the files you wrote for the project contains and does, and if you debated certain design choices, explaining why you made them. Ensure you allocate sufficient time and energy to writing a README.md that documents your project thoroughly. Be proud of it! A README.md in the neighborhood of 500 words is likely to be sufficient for describing your project and all aspects of its functionality. If unable to reach that threshold, that probably means your project is insufficiently complex.
+
 ### Usage
 
 ```bash
